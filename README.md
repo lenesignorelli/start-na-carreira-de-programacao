@@ -1,2 +1,2 @@
-# start-na-carreira-de-programacao
-Mini curso One Bit Code
+# Calculadora de Gorjetas 💰
+Projeto de uma calculadora de gorjetas desenvolvido durante o mini curso gratuito oferecido pelo canal One Bit Code, de Leonardo Scorza.
